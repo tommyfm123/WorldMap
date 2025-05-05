@@ -1,0 +1,160 @@
+{
+  "cities": [
+    {
+      "id": "b824",
+      "cityName": "Argentina",
+      "country": "Argentina",
+      "emoji": "🇦🇷",
+      "date": "2025-05-05T14:01:50.555Z",
+      "notes": "",
+      "position": {
+        "lat": "-30.751277776257812",
+        "lng": "-65.03906250000001"
+      }
+    },
+    {
+      "id": "2a1f",
+      "cityName": "Natal",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2025-05-05T14:02:04.655Z",
+      "notes": "",
+      "position": {
+        "lat": "-1.0546279422758742",
+        "lng": "-46.40625000000001"
+      }
+    },
+    {
+      "id": "6a67",
+      "cityName": "Cancun",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2025-05-05T14:02:12.269Z",
+      "notes": "",
+      "position": {
+        "lat": "21.15623836610943",
+        "lng": "-86.83593750000001"
+      }
+    },
+    {
+      "id": "ad16",
+      "cityName": "Playa del Carmen",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2025-05-05T14:02:44.504Z",
+      "notes": "",
+      "position": {
+        "lat": "20.628607275295852",
+        "lng": "-87.07763671875001"
+      }
+    },
+    {
+      "id": "4b8e",
+      "cityName": "Miami",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-05-05T14:03:10.590Z",
+      "notes": "",
+      "position": {
+        "lat": "26.86328062676624",
+        "lng": "-80.10131835937501"
+      }
+    },
+    {
+      "id": "b821",
+      "cityName": "Orlando",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-05-05T14:04:09.420Z",
+      "notes": "",
+      "position": {
+        "lat": "28.539893820446867",
+        "lng": "-81.37847900390626"
+      }
+    },
+    {
+      "id": "f257",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-05T14:04:24.504Z",
+      "notes": "",
+      "position": {
+        "lat": "40.44694705960048",
+        "lng": "-3.6035156250000004"
+      }
+    },
+    {
+      "id": "22e7",
+      "cityName": "Valencia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-05T14:04:37.853Z",
+      "notes": "",
+      "position": {
+        "lat": "39.470125122358176",
+        "lng": "-0.37628173828125006"
+      }
+    },
+    {
+      "id": "5806",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-05-05T14:04:46.970Z",
+      "notes": "",
+      "position": {
+        "lat": "41.89001042401827",
+        "lng": "12.4749755859375"
+      }
+    },
+    {
+      "id": "682f",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-05-05T14:04:56.453Z",
+      "notes": "",
+      "position": {
+        "lat": "48.879167148960214",
+        "lng": "2.3730468750000004"
+      }
+    },
+    {
+      "id": "b7d3",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-05-05T14:04:59.586Z",
+      "notes": "",
+      "position": {
+        "lat": "51.536085601784755",
+        "lng": "-0.087890625"
+      }
+    },
+    {
+      "id": "cf66",
+      "cityName": "Kathmandu",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2025-05-05T14:05:12.169Z",
+      "notes": "",
+      "position": {
+        "lat": "27.712710260887476",
+        "lng": "85.3143310546875"
+      }
+    },
+    {
+      "id": "6eac",
+      "cityName": "Abu Dhabi",
+      "country": "United Arab Emirates (the)",
+      "emoji": "🇦🇪",
+      "date": "2025-05-05T14:05:59.169Z",
+      "notes": "",
+      "position": {
+        "lat": "24.453400266787614",
+        "lng": "54.37683105468751"
+      }
+    }
+  ]
+}
